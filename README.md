@@ -12,9 +12,6 @@ This project aims to provide a clear and actionable overview of the economic imp
 
 Data has been collected on various indicators essential for analyzing price surges in Nigeria. The detailed tracking of these indicators can be found in our [Indicators/Features Tracker](https://github.com/adiimated/Nigerian-Economic-Impact-2024/tree/main/data%20collection/feature%20tracker).
 
-Key Achievements:
-
-* Data collection completed for multiple indicators.
 * Comprehensive tracking of metrics such as government expenditure, trade openness, GDP, unemployment rate, oil production, inflation rate, exchange rate, and more.
 * Data sourced from reputable databases like CBN, World Bank, NBS, and others.
 
