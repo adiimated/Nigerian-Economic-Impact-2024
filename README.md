@@ -20,8 +20,6 @@ Key Achievements:
 
 ## Data Preprocessing
 Data was cleaned and preprocessed. After that the multiple file were merged based on their starting year/month
-
-- `1950 Onwards`
 - `1960 Onwards`
 - `1980 Onwards`
 - `1990 Onwards`
